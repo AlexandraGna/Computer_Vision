@@ -9,21 +9,21 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure10.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure8.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="45%" height="45%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure11.png" alt="zigzag" width="45%" height="45%" />  
 </p>
 
 <p align="center">
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://AlexandraGna.github.io/Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 * [Task 2](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb){:target="_blank"}:
