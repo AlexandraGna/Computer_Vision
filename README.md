@@ -1,9 +1,9 @@
-# [Computer Vision](https://github.com/AlexandraGna/Computer_Vision){:target="_blank"}
+# [Computer Vision](https://github.com/AlexandraGna/Computer_Vision)
 
 Implementation of 2 Assignments for the course Computer Vision.
 Contributors: Gianluca Vico.
 
-* [Task 1](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_1/Computer_Vision_First_Assignment.ipynb){:target="_blank"}:
+* [Task 1](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_1/Computer_Vision_First_Assignment.ipynb):
 Image Stiching.
 
 Stitching an easy case:
@@ -26,7 +26,7 @@ Stitching a difficult case:
  <img src="https://AlexandraGna.github.io/Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
-* [Task 2](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb){:target="_blank"}:
+* [Task 2](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb):
 The goal is to implement a classifier in order to predict the emotion of given images with faces. The emotion model used includes the six basic emotions (anger, disgust, fear, happiness, sadness and surprise) plus neutral. In addition, we aim to use our classifier for real time classification on videos.
 
-In the [report](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/Computer_Vision_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results.
+In the [report](https://github.com/AlexandraGna/Computer_Vision/blob/main/Project_2/Computer_Vision_Assignment_2.pdf), we explain the implementation details and present the results.
